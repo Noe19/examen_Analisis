@@ -76,7 +76,7 @@ a mongo a la nube
 9.py
 Es importante que al momento que subimos los csv su estructura es distinta , ademas en este caso tenemos la facilidad de elegir que campos necesito 
 pues me los bajo de my mypyadmin formato csv 
-10py 
+10.py 
 Es importante que al momento que subimos los json  su estructura es distinta , 
 pues me los bajo de my mypyadmin formato json y los subo de la misma forma diciendo que son un formato json
 
