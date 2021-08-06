@@ -21,10 +21,10 @@ import json
 
 
 ###API ########################
-ckey = "emWGybRsX7nicbOuYQkwEiQfR"
-csecret = "8xETeMIhFutrBT0TCC4vB7D5ZDrbZ8eLdTJDcje4Hp3hiPSi5X"
-atoken = "1415800172152561668-IVf8r6I342niwblUW38HnLLIXjSX8A"
-asecret = "OL2f8rlNQM8ETLJxWQHPo8m04cgiKSsylwfI90ytPsW4j"
+ckey = "**********************"
+csecret = "***************************"
+atoken = "******************************"
+asecret = "********************************"
 #####################################
 
 
