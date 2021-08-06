@@ -22,10 +22,10 @@ import json
 
 
 ###API ########################
-ckey = "emWGybRsX7nicbOuYQkwEiQfR"
-csecret = "8xETeMIhFutrBT0TCC4vB7D5ZDrbZ8eLdTJDcje4Hp3hiPSi5X"
-atoken = "1415800172152561668-IVf8r6I342niwblUW38HnLLIXjSX8A"
-asecret = "OL2f8rlNQM8ETLJxWQHPo8m04cgiKSsylwfI90ytPsW4j"
+ckey = "**********************************"
+csecret = "***************************************"
+atoken = "************************************************"
+asecret = "***********************************j"
 #####################################
 
 class listener(StreamListener):
@@ -50,7 +50,7 @@ auth.set_access_token(atoken, asecret)
 twitterStream = Stream(auth, listener())
 
 '''========couchdb'=========='''
-server = couchdb.Server('http://CUMBAL:12345@127.0.0.1:5984')  #('http://115.146.93.184:5984/')
+server = couchdb.Server('*************************')  #('*******************************')
 try:
     db = server.create('tra_exam')
 except:
